@@ -1,0 +1,89 @@
+#header-top{
+    
+    background-image:url(../Illustrations/Home/Bathome1.png);
+      height: 1000px;  
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+
+}
+a :hover{
+    color: white;
+}
+#hero{
+    text-align: center;
+    color:white;
+    text-justify: inter-word;
+    position: relative;
+}
+.brand{
+    padding: 10px;
+    margin-left: 10px;
+
+}
+
+.masque img{
+     width: 2000px;
+    padding: 20px;
+    
+}
+.Bh{
+    padding: 15px;
+    margin-left: 500px;
+}
+p{
+color: white;
+height: 50px;
+}
+h1{
+    color: white;
+}
+.guill{
+    margin-left: 90%;
+    padding: 2%;
+}
+.wb{
+text-align: center;
+}
+.flèche{
+    display: flex;
+    flex-direction: column;
+    
+    
+    gap: 30px;
+    
+    
+    position: absolute;
+    top: 40%;
+    left: 90%;
+    
+}
+.flèche img{
+    width: 30px;
+    align-self: center;
+    
+}
+.flèche img:first-child, .flèche img:last-child{
+    width: 90px;
+}
+.logos{
+    text-align: center;
+padding-right: 3%;
+
+}
+.btn1 .newsletter{
+    border-left: none;
+    border-right: none;
+}
+
+input{
+    border: none;
+    width: 700px;
+    border-bottom: 2px solid white;
+    background: none;
+}
+.titre{
+    position: relative;
+    top:25% ;
+    right:800px;
+
+}
